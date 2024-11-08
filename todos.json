@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "text": "Learn HTML & CSS",
+    "finished": false
+  },
+  {
+    "id": 2,
+    "text": "Learn C",
+    "finished": true
+  },
+  {
+    "id": 3,
+    "text": "Learn Java",
+    "finished": false
+  },
+  {
+    "id": 4,
+    "text": "Learn Javascript",
+    "finished": false
+  },
+  {
+    "id": 5,
+    "text": "Learn python",
+    "finished": true
+  },
+  {
+    "id": 6,
+    "text": "Learn PHP",
+    "finished": true
+  },
+  {
+    "id": 7,
+    "text": "Learn Laravel",
+    "finished": true
+  },
+  {
+    "id": 8,
+    "text": "Learn GraphQl",
+    "finished": true
+  },
+  {
+    "id": 9,
+    "text": "Learn Vuejs",
+    "finished": false
+  },
+  {
+    "id": 10,
+    "text": "Learn React",
+    "finished": true
+  },
+  {
+    "id": 11,
+    "text": "Learn NextJS",
+    "finished": true
+  },
+  {
+    "id": 12,
+    "text": "Learn Blockchain",
+    "finished": false
+  },
+  {
+    "id": "13",
+    "text": "Learn Auth0 & JWT",
+    "finished": true
+  }
+]
