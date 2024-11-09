@@ -28,10 +28,10 @@ Pour installer ces dépendances, exécutez la commande suivante (si elles ne son
   - [] updateTodos
   - [] deleteTodos 
 ## comment consommer côté front 
-  -[] exemple avec allTodos (id, text, finished)
-  -[] exemple avec oneTodos (id : 'entrez un Id')
-  -[] exemple avec filteredTodos (finished: true or false)
-  -[] exemple avec createTodos (text, finished)
-  -[] exemple avec updateTodos (id, text, finished)
-  -[] exemple avec deleteTodos (id : 'entrez un Id')
+  - [] exemple avec allTodos (id, text, finished)
+  - [] exemple avec oneTodos (id : 'entrez un Id')
+  - [] exemple avec filteredTodos (finished: true or false)
+  - [] exemple avec createTodos (text, finished)
+  - [] exemple avec updateTodos (id, text, finished)
+  - [] exemple avec deleteTodos (id : 'entrez un Id')
 
