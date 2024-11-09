@@ -1,21 +1,10 @@
-# GraphQL API Todos
+GraphQL API Todos
+Une API GraphQL pour gérer des tâches (Todos) avec Node.js et Express.
 
-## Query Actions 
-- [] allTodos
-- [] oneTodos
-- [] filteredTodos
-
-
-## Mtations Actions
-
-- [] createTodos
-- [] updateTodos
-- [] deleteTodos
-
-## comment consommer côté front
-- [] exemple avec allTodos
-- [] exemple avec oneTodos
-- [] exemple avec filteredTodos
-- [] exemple avec createTodos
-- [] exemple avec updateTodos
-- [] exemple avec deleteTodos
+Prérequis
+Assurez-vous d'avoir Node.js et npm installés sur votre machine.
+Installation
+Clonez le projet et installez les dépendances nécessaires :
+git clone https://github.com/VOTRE-NOM-DUTILISATEUR/graphql-node-express.git
+cd graphql-node-express
+npm install
